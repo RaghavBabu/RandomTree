@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!-- Network topo 1  -->
+<Nodes>
+ 
+ 	<Server_Node id ="0" IPAddress = "129.21.30.37" /> 
+	<Server_Node id ="1" IPAddress = "129.21.34.80" />
+	<Server_Node id ="2" IPAddress = "129.21.37.49"/>
+	<Server_Node id ="3" IPAddress = "129.21.34.82"/>
+	<Server_Node id ="4" IPAddress = "129.21.34.84"/>
+	<Server_Node id ="5" IPAddress = "129.21.37.18"/> 
+	<Server_Node id ="6" IPAddress = "129.21.37.19"/> 
+	<Server_Node id ="7" IPAddress = "129.21.37.16"/>
+	<Server_Node id ="8" IPAddress = "129.21.37.11"/> 
+	<Server_Node id ="9" IPAddress = "129.21.37.10"/>
+	<Server_Node id ="10" IPAddress = "129.21.37.1"/>
+	<Server_Node id ="11" IPAddress = "129.21.37.2"/>
+	<Server_Node id ="12" IPAddress = "129.21.37.6"/>
+	<Server_Node id ="13" IPAddress = "129.21.37.7"/>
+	<Server_Node id ="14" IPAddress = "129.21.37.8"/>
+		
+	
+	<Client_Node IPAddress = "129.21.22.196"/>
+	
+	<!--  <Node id ="3" IPAddress = "129.21.37.49"/> -->
+
+</Nodes>	
+
+<!-- queeg
+comet
+rheo
+sunflower
+whirlpool
+kansas 
+idaho
+newyork 
+utah
+indiana 
+maine
+iowa
+alabama
+delaware
+missouri
+ -->
+
